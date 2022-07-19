@@ -4,6 +4,12 @@
 <b>Warning</b>: Due to the overall purpose of the study, this repository and paper contains examples of <i>stereotypes</i>, <i>profanity</i>, <i>vulgarity</i> and other harmful languages in figures and tables that may be triggering or disturbing to LGBTQIA+ individuals, activists and allies, and may be distressing for some readers. <br> 
 
 ### Citation
+    @inproceedings{dacon2022detecting, 
+    title={Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals}, 
+    author={Jamell Dacon, Harry Shomer, Shaylynn Crum-Dacon, Jiliang Tang}, 
+    booktitle={Queer in AI Workshop at NAACL}, 
+    year={2022} 
+    }
 
 Here is a BiBTeX citation:
 
